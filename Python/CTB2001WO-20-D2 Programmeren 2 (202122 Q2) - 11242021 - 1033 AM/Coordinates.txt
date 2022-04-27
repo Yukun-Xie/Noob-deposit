@@ -1,0 +1,4 @@
+Catchment, River, latitude, longitude
+Catchment 1, Thames, 51.50193, 0.54117
+Catchment 2, Maas, 51.88830, 4.61969
+Catchment 3, Amazon, -1.74760, -49.15745
